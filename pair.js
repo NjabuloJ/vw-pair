@@ -63,12 +63,12 @@ router.get('/', async (req, res) => {
 ┃CONNECTED💙🔵
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || 𝐶𝑟𝑒𝑎𝑡𝑜𝑟 = POPKID
+❶ || 𝐶𝑟𝑒𝑎𝑡𝑜𝑟 = Njabulo JB 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || YouTube Channel = https://youtube.com/@mustaffamk?si=uJQhZ5skOWwnT2oh
+❷ || bot name vw golf 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Please Follow My Support Channel https://whatsapp.com/channel/0029VawBbI40AgWKACOjdm1T
-Wanna talk? http://wa.me/254758755663?
+Wanna talk? http://wa.me/26777821911?
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ©*MUSTAFFA KE*
 
